@@ -1,0 +1,27 @@
+html{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color: red;
+    background-color: black;
+    font-size: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: blanchedalmond;
+    background-color: darkgrey;
+}
+
+.cuerpo_del_texto{
+    color: whitesmoke;
+    background-color: black;
+    border: solid red 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
